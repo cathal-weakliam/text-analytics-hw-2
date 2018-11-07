@@ -1,0 +1,2 @@
+# Ignore the checkpoints folder, seeing as we have git versioning anyway.
+.ipynb_checkpoints/*
