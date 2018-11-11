@@ -1,2 +1,5 @@
 # Ignore the checkpoints folder, seeing as we have git versioning anyway.
 .ipynb_checkpoints/*
+
+# Mac-specific folder-customising file
+.DS_Store
